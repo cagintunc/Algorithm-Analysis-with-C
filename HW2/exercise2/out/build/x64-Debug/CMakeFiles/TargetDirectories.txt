@@ -1,0 +1,5 @@
+C:/Users/cagin/OneDrive/Masaüstü/hw02/exercise2/out/build/x64-Debug/CMakeFiles/edit_cache.dir
+C:/Users/cagin/OneDrive/Masaüstü/hw02/exercise2/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir
+C:/Users/cagin/OneDrive/Masaüstü/hw02/exercise2/out/build/x64-Debug/src/CMakeFiles/exercise2.dir
+C:/Users/cagin/OneDrive/Masaüstü/hw02/exercise2/out/build/x64-Debug/src/CMakeFiles/edit_cache.dir
+C:/Users/cagin/OneDrive/Masaüstü/hw02/exercise2/out/build/x64-Debug/src/CMakeFiles/rebuild_cache.dir

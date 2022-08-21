@@ -1,0 +1,19 @@
+# ninja log v5
+1	540	6727020460364831	src/CMakeFiles/exercise1.dir/exercise1.cc.obj	a72541d45d53077a
+541	722	6727020461922152	src/exercise1.exe	367cd9a3f6edbeb5
+1	577	6727022670938156	src/CMakeFiles/exercise1.dir/exercise1.cc.obj	a72541d45d53077a
+578	752	6727022672454593	src/exercise1.exe	367cd9a3f6edbeb5
+0	393	6727023511613995	src/CMakeFiles/exercise1.dir/exercise1.cc.obj	a72541d45d53077a
+394	623	6727023513653584	src/exercise1.exe	367cd9a3f6edbeb5
+1	704	6727547023294454	src/CMakeFiles/exercise1.dir/exercise1.cc.obj	a72541d45d53077a
+705	894	6727547024953930	src/exercise1.exe	367cd9a3f6edbeb5
+1	516	6727547317296422	src/CMakeFiles/exercise1.dir/exercise1.cc.obj	a72541d45d53077a
+517	742	6727547319358187	src/exercise1.exe	367cd9a3f6edbeb5
+0	749	6727614364850761	src/CMakeFiles/exercise1.dir/exercise1.cc.obj	a72541d45d53077a
+750	903	6727614366174535	src/exercise1.exe	367cd9a3f6edbeb5
+0	629	6727636609494479	src/CMakeFiles/exercise1.dir/exercise1.cc.obj	a72541d45d53077a
+630	816	6727636611094598	src/exercise1.exe	367cd9a3f6edbeb5
+0	351	6727639053982798	src/CMakeFiles/exercise1.dir/exercise1.cc.obj	a72541d45d53077a
+352	476	6727639055048222	src/exercise1.exe	367cd9a3f6edbeb5
+1	689	6727743526862009	src/CMakeFiles/exercise1.dir/exercise1.cc.obj	a72541d45d53077a
+690	975	6727743529491314	src/exercise1.exe	367cd9a3f6edbeb5

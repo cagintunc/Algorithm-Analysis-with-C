@@ -1,0 +1,8 @@
+The evaluation script is provided to allow you to test your code automatically. This is an entirely optional step. You can always manually check if your output looks the same as the outputs of the example runs.
+
+Run:
+python3 grader.py
+
+If python is associated with Python 3, you can run:
+python grader.py
+

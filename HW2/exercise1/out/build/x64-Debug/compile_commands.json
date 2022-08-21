@@ -1,0 +1,7 @@
+[
+{
+  "directory": "C:/Users/cagin/OneDrive/Masaüstü/hw02/exercise1/out/build/x64-Debug",
+  "command": "C:\\PROGRA~2\\MICROS~2\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1429~1.300\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MDd /Zi /Ob0 /Od /RTC1 /Fosrc\\CMakeFiles\\exercise1.dir\\exercise1.cc.obj /FdTARGET_COMPILE_PDB /FS -c C:\\Users\\cagin\\OneDrive\\Masaüstü\\hw02\\exercise1\\src\\exercise1.cc",
+  "file": "C:/Users/cagin/OneDrive/Masaüstü/hw02/exercise1/src/exercise1.cc"
+}
+]
